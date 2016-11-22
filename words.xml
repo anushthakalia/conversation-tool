@@ -1,0 +1,56 @@
+<dictionary>
+<entry tags="NN">
+<token>computer</token>
+</entry>
+<entry tags="NN">
+<token>user</token>
+</entry>
+<entry tags="DT">
+<token>your</token>
+</entry>
+<entry tags="WP WDT">
+<token>what</token>
+</entry>
+<entry tags="VBP VBZ NNS">
+<token>is</token>
+</entry>
+<entry tags="UH VBP NN VB">
+<token>name</token>
+</entry>
+<entry tags="JJ PRP$ UH PRP">
+<token>my</token>
+</entry>
+<entry tags="NNP">
+<token>sherlock</token>
+</entry>
+<entry tags="VBP VBZ NNP">
+<token>are</token>
+</entry>
+<entry tags="PRP">
+<token>you</token>
+</entry>
+<entry tags="VB">
+<token>do</token>
+</entry>
+<entry tags="NN">
+<token>today</token>
+</entry>
+<entry tags="PRP">
+<token>i</token>
+</entry>
+<entry tags="VBP NNS">
+<token>am</token>
+</entry>
+<entry tags="VB">
+<token>go</token>
+</entry>
+<entry tags="TO">
+<token>to</token>
+</entry>
+<entry tags="VB NNP">
+<token>play</token>
+</entry>
+<entry tags="NN">
+<token>football</token>
+</entry>
+</dictionary>
